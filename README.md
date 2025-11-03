@@ -1,4 +1,4 @@
-📱 SMS Spam Detection Projesi
+📱 SMS Spam Detection 
 
 Bu proje, kullanıcıların aldıkları kısa mesajları (SMS) analiz ederek spam (istenmeyen) veya ham (normal) olarak sınıflandırmayı amaçlamaktadır.
 Proje Naive Bayes algoritması kullanılarak geliştirilmiştir.
@@ -36,4 +36,4 @@ ham → normal kullanıcı mesajları
 
 🔍 Sonuçlar
 
-Yapılan testlerde modeli yüksek başarı göstermiştir.
+Yapılan testlerde model yüksek başarı göstermiştir.
